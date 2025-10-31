@@ -12,7 +12,7 @@ This project was executed using both advanced BI tools (Power BI, Tableau) and f
  * **Full Pipeline Implementation:** Demonstrating proficiency across the entire data stack, from initial data loading to final dashboard deployment.
 
 ## Data Source
-* The project is based on a comprehensive [dataset](https://github.com/rehanmehdichandio/Bank-Loan-Analysis/blog/main/data/financial_loan.csv) stored in SQL Server, encompassing various aspects of bank loans, including loan amounts, issue dates, interest rates, DTI ratios, and loan statuses.
+* The project is based on a comprehensive [dataset]((https://github.com/rehanmehdichandio/Bank-Loan-Analysis/blob/main/data/financial_loan.csv)) stored in SQL Server, encompassing various aspects of bank loans, including loan amounts, issue dates, interest rates, DTI ratios, and loan statuses.
 
 ## Tools and Technologies Used
 * **SQL Management Server:** Used for database management, querying, and data analysis. SQL queries were crucial in extracting key metrics and insights from the loan dataset.
