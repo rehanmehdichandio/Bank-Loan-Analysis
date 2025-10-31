@@ -12,7 +12,7 @@ This project was executed using both advanced BI tools (Power BI, Tableau) and f
  * **Full Pipeline Implementation:** Demonstrating proficiency across the entire data stack, from initial data loading to final dashboard deployment.
 
 ## Data Source
-* The project is based on a comprehensive [dataset](https://github.com/AmeeJoshi-MCA/Bank-Loan-Analysis/blob/main/data/financial_loan.csv) stored in SQL Server, encompassing various aspects of bank loans, including loan amounts, issue dates, interest rates, DTI ratios, and loan statuses.
+* The project is based on a comprehensive [dataset](https://github.com/rehanmehdichandio/Bank-Loan-Analysis/blob/main/data/financial_loan.csv) stored in SQL Server, encompassing various aspects of bank loans, including loan amounts, issue dates, interest rates, DTI ratios, and loan statuses.
 
 ## Tools and Technologies Used
 * **SQL Management Server:** Used for database management, querying, and data analysis. SQL queries were crucial in extracting key metrics and insights from the loan dataset.
@@ -39,22 +39,22 @@ This project was executed using both advanced BI tools (Power BI, Tableau) and f
      git clone https://github.com/AmeeJoshi-MCA/Bank-Loan-Analysis.git
 
 * **2 Set up the database / SQL:**
-  * Import the [loan dataset](https://github.com/AmeeJoshi-MCA/Bank-Loan-Analysis/blob/main/data/financial_loan.csv) to the create database.
-  * Use the provided [SQL script](https://github.com/AmeeJoshi-MCA/Bank-Loan-Analysis/blob/main/sql/loan_queries.sql) to set up the database in SQL Management Server. 
+  * Import the [loan dataset](https://github.com/rehanmehdichandio/Bank-Loan-Analysis/blob/main/data/financial_loan.csv) to the create database.
+  * Use the provided [SQL script](https://github.com/rehanmehdichandio/Bank-Loan-Analysis/blob/main/sql/loan_queries.sql) to set up the database in SQL Management Server. 
 
 * **3 Python Setup:**
-   Open the provided [python file](https://github.com/AmeeJoshi-MCA/Bank-Loan-Analysis/blob/main/python/Bank%20loan%20analysis%20.ipynb) to review analyses
+   Open the provided [python file](https://github.com/rehanmehdichandio/Bank-Loan-Analysis/blob/main/python/Bank%20loan%20analysis%20.ipynb) to review analyses
    and data processing.
 
 * **4 Excel Setup:**
    Open the provided Excel file to review preliminary analyses and data processing steps.
 
 * **5 Power BI Setup:**
-          Open the provided [Power BI file](https://github.com/AmeeJoshi-MCA/Bank-Loan-Analysis/blob/main/powerBi/Bank_loan_report.pbit).
+          Open the provided [Power BI file](https://github.com/rehanmehdichandio/Bank-Loan-Analysis/blob/main/powerBi/Bank_loan_report.pbit).
           Connect the BI file to your SQL Server database.
 
 * **6 Tableau Setup:**
-  Open the provided [Tableau workbook](https://github.com/AmeeJoshi-MCA/Bank-Loan-Analysis/blob/main/tableau/BankLoanAnalysis.twb).
+  Open the provided [Tableau workbook](https://github.com/rehanmehdichandio/Bank-Loan-Analysis/blob/main/tableau/BankLoanAnalysis.twb).
   Connect the Tableau workbook to your SQL Server database.
 
  ## ✅ Conclusion
