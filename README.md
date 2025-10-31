@@ -34,29 +34,6 @@ This project was executed using both advanced BI tools (Power BI, Tableau) and f
 <img width="1320" height="760" alt="image" src="https://github.com/user-attachments/assets/aa9fa9c9-ce7e-4c22-b7f2-2ec7efceba2f" />
 
 
-## 🛠️ Installation & Setup
-* **1 Clone the repo:**   
-     git clone https://github.com/AmeeJoshi-MCA/Bank-Loan-Analysis.git
-
-* **2 Set up the database / SQL:**
-  * Import the [loan dataset](https://github.com/rehanmehdichandio/Bank-Loan-Analysis/blob/main/data/financial_loan.csv) to the create database.
-  * Use the provided [SQL script](https://github.com/rehanmehdichandio/Bank-Loan-Analysis/blob/main/sql/loan_queries.sql) to set up the database in SQL Management Server. 
-
-* **3 Python Setup:**
-   Open the provided [python file](https://github.com/rehanmehdichandio/Bank-Loan-Analysis/blob/main/python/Bank%20loan%20analysis%20.ipynb) to review analyses
-   and data processing.
-
-* **4 Excel Setup:**
-   Open the provided Excel file to review preliminary analyses and data processing steps.
-
-* **5 Power BI Setup:**
-          Open the provided [Power BI file](https://github.com/rehanmehdichandio/Bank-Loan-Analysis/blob/main/powerBi/Bank_loan_report.pbit).
-          Connect the BI file to your SQL Server database.
-
-* **6 Tableau Setup:**
-  Open the provided [Tableau workbook](https://github.com/rehanmehdichandio/Bank-Loan-Analysis/blob/main/tableau/BankLoanAnalysis.twb).
-  Connect the Tableau workbook to your SQL Server database.
-
  ## ✅ Conclusion
  * This project demonstrates the end-to-end process of building a Bank Loan Analytics System using SQL, Python, Tableau, and Power BI.
 
